@@ -1,8 +1,8 @@
-API_ID = "26482070"
-API_HASH = "28f1d67e2693e057ae4611521c555136"
+API_ID = "Your api id "
+API_HASH = "Your api hash"
 
-BOT_TOKEN = "6557432874:AAGywcrSYYwKE9o_r3foRzfVM6khPLgPMxk"
-OWNER_ID = "6441456023"
+BOT_TOKEN = "Your bot token"
+OWNER_ID = "your id "
 
-MONGO_DB_URI = "mongodb+srv://knight_rider:GODGURU12345@knight.jm59gu9.mongodb.net/?retryWrites=true&w=majority"
-MUST_JOIN = "dev_gagan"
+MONGO_DB_URI = "Your mongdb id"
+MUST_JOIN = "𝕊𝕋𝕌𝔹𝔹𝕆ℝℕ 🕊"
