@@ -16,7 +16,7 @@ app = Client(
     api_hash=config.API_HASH,
     bot_token=config.BOT_TOKEN,
     in_memory=True,
-    plugins=dict(root="Gagan"),
+    plugins=dict(root="Stubborn"),
 )
 
 
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
     uname = app.get_me().username
-    print(f"@{uname} 𝖲𝖳𝖠𝖱𝖳𝖤𝖣 𝖲𝖴𝖢𝖤𝖲𝖲𝖥𝖴𝖫𝖫𝖸. 𝖬𝖠𝖣𝖤 𝖡𝖸 Team SPY")
+    print(f"@{uname} 𝖲𝖳𝖠𝖱𝖳𝖤𝖣 𝖲𝖴𝖢𝖤𝖲𝖲𝖥𝖴𝖫𝖫𝖸. 𝖬𝖠𝖣𝖤 𝖡𝖸 𝕊𝕋𝕌𝔹𝔹𝕆ℝℕ 🕊")
     idle()
     app.stop()
     print("𝗕𝗢𝗧 𝗦𝗧𝗢𝗣𝗣𝗘𝗗!")
