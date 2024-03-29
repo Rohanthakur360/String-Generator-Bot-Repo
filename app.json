@@ -1,7 +1,7 @@
 {
-  "name": "𝖲𝖳𝖱𝖨𝖭𝖦 𝖡𝖮𝖳 BY TEAM SPY",
-  "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions. made by Team SPY",
-  "logo": "https://telegra.ph/file/4fecc2f906b383faac272.jpg",
+  "name": "𝖲𝖳𝖱𝖨𝖭𝖦 𝖡𝖮𝖳 BY 𝕊𝕋𝕌𝔹𝔹𝕆ℝℕ 🕊",
+  "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions. made by 𝕊𝕋𝕌𝔹𝔹𝕆ℝℕ 🕊",
+  "logo": "https://te.legra.ph/file/917c1bd811a5f84171f41.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -34,9 +34,10 @@
             "required": true
         }
     },
-    "addons": [
-        {
-            "plan": "heroku-postgresql"
-        }
-    ]
-}
+    "buildpacks": [
+          {
+              "url": "heroku/python"
+          }
+      ],
+      "stack": "container"
+  }
