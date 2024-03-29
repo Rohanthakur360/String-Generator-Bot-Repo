@@ -20,7 +20,7 @@ This handy tool allows you to effortlessly generate sessions for both Pyrogram a
 Whether you're developing Telegram bots or automation scripts, our bot has got you covered. 
 Dive in and start generating sessions with ease!
 
-Made with ❤️ by [Team SPY](https://t.me/Stubborn1223)""",
+Made with ❤️ by [𝕊𝕋𝕌𝔹𝔹𝕆ℝℕ 🕊](https://t.me/Stubborn1223)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
